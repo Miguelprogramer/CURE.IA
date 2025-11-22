@@ -17,5 +17,3 @@ A Cure não substitui profissionais de saúde, mas atua como uma primeira linha 
 - **HTML5**  
 - **CSS3**  
 - **Modelo de linguagem local ou API externa** (dependendo da instalação)
-
-## 📁 Estrutura do Projeto  
